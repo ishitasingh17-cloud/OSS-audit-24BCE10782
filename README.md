@@ -32,8 +32,7 @@ Script 5: Open Source Manifesto Generator (script5.sh) Purpose: An interactive t
 
 How to Run the Scripts
 Clone the Repository
-git clone https://github.com/jhasneha8945/oss-audit-24BCE11188.git
-cd oss-audit-24BCE11188
+git clone (https://github.com/ishitasingh17-cloud/OSS-audit-24BCE10782)
 Set Executable Permissions
 chmod +x *.sh
 Run the Scripts
