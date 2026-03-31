@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 3: Disk and Permission Auditor
-# Author: Ishita| Roll: 24BCE10782
+# Author: Ishita Singh| Roll: 24BCE10782
 # Course: Open Source Software
 # Description: Loops through system directories and reports permissions + disk usage
 
