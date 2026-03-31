@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
-# Author: Ishita| Roll: 24BCE10782
+# Author: Ishita Singh| Roll: 24BCE10782
 # Course: Open Source Software
 # Description: Checks if Git is installed and prints package info + philosophy note
 
