@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 4: Log File Analyzer
-# Author: Ishita | Roll: 24BCE10782
+# Author: Ishita Singh | Roll: 24BCE10782
 # Course: Open Source Software
 # Description: Reads a log file, counts keyword occurrences, shows last 5 matches
 # Usage: ./script4_log_analyzer.sh /path/to/logfile [keyword]
